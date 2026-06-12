@@ -1,0 +1,104 @@
+{
+  "company": {
+    "name": "Prestige Estates",
+    "tagline": "Where Luxury Meets Legacy",
+    "phone": "+91 98765 43210",
+    "whatsapp": "+919876543210",
+    "email": "info@prestigeestates.in",
+    "address": "Plot No. 42, Jubilee Hills, Hyderabad, Telangana 500033",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.3!2d78.4072!3d17.4326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDI1JzU3LjQiTiA3OMKwMjQnMjUuOSJF!5e0!3m2!1sen!2sin!4v1234567890",
+    "founded": "2010",
+    "stats": {
+      "layouts": 48,
+      "plotsSold": 1200,
+      "projects": 320,
+      "clients": 850,
+      "crew": 15
+    }
+  },
+  "layouts": [
+    {
+      "id": 1,
+      "name": "Golden Meadows Phase 1",
+      "location": "Shamshabad, Hyderabad",
+      "image": "https://images.unsplash.com/photo-1582407947304-fd86f28f1e46?w=800&q=80",
+      "totalPlots": 120,
+      "availablePlots": 28,
+      "totalArea": "45 Acres",
+      "pricePerSqYd": "₹18,000",
+      "description": "Premium gated community layout with wide roads and all amenities. HMDA approved.",
+      "mapsLink": "https://maps.google.com",
+      "status": "available",
+      "amenities": ["24/7 Security", "Underground Drainage", "Street Lights", "Park", "Clubhouse"],
+      "plotSizes": ["100 Sq Yd", "150 Sq Yd", "200 Sq Yd", "300 Sq Yd"],
+      "roads": "40ft & 30ft BT Roads",
+      "water": "Borewell + HMWSSB",
+      "electricity": "TS Transco Underground",
+      "nearby": ["ORR Junction 2km", "International Airport 8km", "Schools & Hospitals nearby"]
+    },
+    {
+      "id": 2,
+      "name": "Silver Palms Enclave",
+      "location": "Mokilla, Hyderabad",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80",
+      "totalPlots": 80,
+      "availablePlots": 5,
+      "totalArea": "30 Acres",
+      "pricePerSqYd": "₹22,000",
+      "description": "Ultra-premium venture with landscaped gardens and premium infrastructure.",
+      "mapsLink": "https://maps.google.com",
+      "status": "limited",
+      "amenities": ["Gated Community", "Jogging Track", "Children's Play Area", "Community Hall", "Water Park"],
+      "plotSizes": ["150 Sq Yd", "200 Sq Yd", "300 Sq Yd"],
+      "roads": "60ft & 40ft CC Roads",
+      "water": "24/7 Water Supply",
+      "electricity": "Underground Cabling",
+      "nearby": ["Outer Ring Road 1km", "Pharma City 5km", "IT Corridor 10km"]
+    },
+    {
+      "id": 3,
+      "name": "Royal Heritage Gardens",
+      "location": "Adibatla, Hyderabad",
+      "image": "https://images.unsplash.com/photo-1524813686514-a57563d77965?w=800&q=80",
+      "totalPlots": 200,
+      "availablePlots": 0,
+      "totalArea": "72 Acres",
+      "pricePerSqYd": "₹15,000",
+      "description": "Our flagship sold-out project. Set the benchmark for premium layouts.",
+      "mapsLink": "https://maps.google.com",
+      "status": "soldout",
+      "amenities": ["Swimming Pool", "Gym", "Temple", "Shopping Complex", "Solar Lighting"],
+      "plotSizes": ["100 Sq Yd", "150 Sq Yd", "200 Sq Yd"],
+      "roads": "40ft & 30ft Roads",
+      "water": "Dedicated Water Plant",
+      "electricity": "Smart Grid",
+      "nearby": ["Wipro Campus 3km", "TSPA 2km", "Infosys Campus 5km"]
+    },
+    {
+      "id": 4,
+      "name": "Emerald Greens Phase 2",
+      "location": "Tukkuguda, Hyderabad",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+      "totalPlots": 150,
+      "availablePlots": 150,
+      "totalArea": "55 Acres",
+      "pricePerSqYd": "₹12,000",
+      "description": "Pre-launch venture. Book now at introductory prices. RERA Approved.",
+      "mapsLink": "https://maps.google.com",
+      "status": "upcoming",
+      "amenities": ["Grand Entry Gate", "Avenue Trees", "24/7 Security", "Underground Services"],
+      "plotSizes": ["100 Sq Yd", "150 Sq Yd", "200 Sq Yd", "400 Sq Yd"],
+      "roads": "40ft Main Road, 30ft Internal Roads",
+      "water": "HMWSSB + Borewell",
+      "electricity": "TSECPDCL",
+      "nearby": ["Outer Ring Road 3km", "IT Park 8km", "Airport 15km"]
+    }
+  ],
+  "crew": [
+      ],
+  "testimonials": [
+      ],
+  "gallery": [
+    {"id": 1, "category": "layout", "image": "https://images.unsplash.com/photo-1582407947304-fd86f28f1e46?w=600&q=80", "title": "Golden Meadows Aerial View"},
+      ]
+}
